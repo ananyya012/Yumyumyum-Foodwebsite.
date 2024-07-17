@@ -55,9 +55,6 @@ To set up **yumyumyum** locally, follow these steps:
 3. **Submit Recipes**: Share your unique recipes by filling out the submission form.
 4. **Rate and Review**: Provide feedback on recipes to help other users discover the best dishes.
 
-## Contributing
-
-We welcome contributions to make **yumyumyum** even better. To contribute, please follow these steps:
 
 
 ## License
