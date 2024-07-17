@@ -19,7 +19,7 @@ Welcome to **yumyumyum**! Our platform is designed to bring a delightful and com
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript, React
+- **Frontend**: HTML, CSS, JavaScript.
 - **Hosting**: Netlify
 
 ## Installation
