@@ -1,8 +1,9 @@
 <!--side image-->
 <div>
-  <img src="Screenshot 2024-07-17 171850.png.png">
+  <img src="Screenshot 2024-07-17 171850.png">
 </div>
-# yumyumyum - Food Website README
+
+## yumyumyum - Food Website README
 
 ## Introduction :
 
