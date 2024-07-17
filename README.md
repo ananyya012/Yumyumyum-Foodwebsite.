@@ -4,8 +4,6 @@
   <img src="Screenshot 2024-07-17 171850.png">
 </div>
 
-## yumyumyum - Food Website README
-
 ## Introduction :
 
 Welcome to **yumyumyum**! Our platform is designed to bring a delightful and comprehensive culinary experience to food enthusiasts. Whether you're an experienced chef or a beginner cook, **yumyumyum** offers a wide range of recipes, cooking tips, and food articles to suit all your culinary needs.
