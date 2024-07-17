@@ -1,6 +1,6 @@
 <!--side image-->
 <div>
-  <img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img src="Screenshot 2024-07-17 171850.png.png">
 </div>
 # yumyumyum - Food Website README
 
