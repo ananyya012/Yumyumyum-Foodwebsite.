@@ -1,3 +1,7 @@
+<!--side image-->
+<div>
+  <img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 # yumyumyum - Food Website README
 
 ## Introduction :
