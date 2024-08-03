@@ -45,7 +45,7 @@ To set up **yumyumyum** locally, follow these steps:
    ```sh
    npm start
    ```
-
+   
    The application should now be running on `http://localhost:3000`.
 
 ## Usage
