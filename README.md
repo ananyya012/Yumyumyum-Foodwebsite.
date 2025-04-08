@@ -28,7 +28,7 @@ To set up **yumyumyum** locally, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/ananyaa012/yumyumyum.git
+   git clone https://github.com/ananyya012/yumyumyum.git
    ```
 
 2. **Navigate to the project directory**:
